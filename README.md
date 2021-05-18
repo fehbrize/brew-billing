@@ -1,2 +1,2 @@
-# grade-book
-A simple gradebook application in Java8
+# brew-billing
+A simple application in java 8 for the billing system of a coffee shop.
